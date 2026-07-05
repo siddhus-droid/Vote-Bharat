@@ -24,6 +24,8 @@ https://vote-bharat-style.vercel.app
 npm install
 npm run dev
 ```
+## 📸 Screenshots
+
 
 ## 👨‍💻 Author
 
